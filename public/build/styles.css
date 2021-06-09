@@ -1,3 +1,7 @@
+html {
+  height: 100%;
+  width: 100%;
+}
 body {
   height: 100%;
   width: 100%;
@@ -25,4 +29,12 @@ body {
   flex-direction: row;
   justify-content: center;
   align-items: center;
+}
+
+.EmployerProfile-Container {
+  top: 800px;
+}
+
+.PieChart-Container {
+  top: 800px;
 }
