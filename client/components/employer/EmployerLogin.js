@@ -24,7 +24,7 @@ const EmployerLogin = (props) => {
       </div>
       <div>
         {/* alter this when we have functionality to transition */}
-        <EmployerProfile />
+        {/* <EmployerProfile /> */}
       </div>
     </div>
   );
